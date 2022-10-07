@@ -14,4 +14,10 @@ To update:
 
 ## How to run
 
-Simply download the repository and open the html file
+I use `http-server` to run the file.
+
+### So in **VS Code** install http-server.
+`npm install http-server`
+
+### Run
+`http-server`
